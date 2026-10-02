@@ -5,9 +5,9 @@ function CoffeeCup(){
     this.x =windowWidth/4;
     this.y =windowHeight/4.7;
     this.bg = [
-    loadImage("assets/IMG_7768.jpg"),
-    loadImage("assets/IMG_7769.jpg"),
-    loadImage("assets/IMG_7770.jpg")
+    loadImage("assets/IMG_7768.JPG"),
+    loadImage("assets/IMG_7769.JPG"),
+    loadImage("assets/IMG_7770.JPG")
     ]
     //background image variables
     this.currentImageIndex = 0;
